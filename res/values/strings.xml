@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Game Library</string>
+    <string name="settings">Settings</string>
+    <string name="search_hint">Search Titles</string>
+    <string name="add_title">Add Game</string>
+    <string name="viewlist_title">List by System</string>
+    <string name="add_hint">Game Title</string>
+    <string name="search_button">GO</string>
+    <string name="delete_button">Delete</string>
+    
+
+    <string-array name="systems_array">
+        <item>NES</item>
+		<item>SNES</item>
+		<item>N64</item>
+		<item>GCN</item>
+		<item>Wii</item>
+		<item>PS1</item>
+		<item>PS2</item>
+		<item>PS3</item>
+		<item>XBOX</item>
+		<item>X360</item>
+		<item>DS</item>
+		<item>3DS</item>
+		<item>WiiU</item>
+		<item>GBA</item>
+		<item>DCAST</item>
+    </string-array>
+
+</resources>
